@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="idimages" >
+        <item>@drawable/prod1</item>
+        <item>@drawable/prod2</item>
+        <item>@drawable/prod3</item>
+        <item>@drawable/prod4</item>
+        <item>@drawable/prod5</item>
+        <item>@drawable/prod6</item>
+        <item>@drawable/prod7</item>
+    </array>
+
+    <string-array name="names">
+        <item>prod1</item>
+        <item>prod2</item>
+        <item>prod3</item>
+        <item>prod4</item>
+        <item>prod5</item>
+        <item>prod6</item>
+        <item>prod7</item>
+    </string-array>
+
+
+</resources>
